@@ -1,0 +1,47 @@
+[
+  {
+    "name": "Caretaker 1",
+    "type": "caretaker",
+    "email": "caretaker1@example.com",
+    "password": "password123",
+    "mobile": 1234567890,
+    "notificationType": "email",
+    "users": []
+  },
+  {
+    "name": "Caretaker 2",
+    "type": "caretaker",
+    "email": "caretaker2@example.com",
+    "password": "caretakerpass",
+    "mobile": 9876543210,
+    "notificationType": "sms",
+    "users": []
+  },
+  {
+    "name": "Caretaker 3",
+    "type": "caretaker",
+    "email": "caretaker3@example.com",
+    "password": "secure123",
+    "mobile": 5554443333,
+    "notificationType": "whatsapp",
+    "users": []
+  },
+  {
+    "name": "Caretaker 4",
+    "type": "caretaker",
+    "email": "caretaker4@example.com",
+    "password": "letmein",
+    "mobile": 1112223333,
+    "notificationType": "call",
+    "users": []
+  },
+  {
+    "name": "Caretaker 5",
+    "type": "caretaker",
+    "email": "caretaker5@example.com",
+    "password": "12345caretaker",
+    "mobile": 9998887777,
+    "notificationType": "push",
+    "users": []
+  }
+]

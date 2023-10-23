@@ -1,0 +1,52 @@
+[
+  {
+    "name": "Patient 1",
+    "type": "patient",
+    "email": "patient1@example.com",
+    "password": "password123",
+    "mobile": 4578935610,
+    "notificationType": "call",
+    "medications": [],
+    "caretakers": []
+  },
+  {
+    "name": "Patient 2",
+    "type": "patient",
+    "email": "patient2@example.com",
+    "password": "patientpass",
+    "mobile": 7589426310,
+    "notificationType": "push",
+    "medications": [],
+    "caretakers": []
+  },
+  {
+    "name": "Patient 3",
+    "type": "patient",
+    "email": "patient3@example.com",
+    "password": "secure123",
+    "mobile": 2357891568,
+    "notificationType": "whatsapp",
+    "medications": [],
+    "caretakers": []
+  },
+  {
+    "name": "Patient 4",
+    "type": "patient",
+    "email": "patient4@example.com",
+    "password": "letmein",
+    "mobile": 7894562580,
+    "notificationType": "sms",
+    "medications": [],
+    "caretakers": []
+  },
+  {
+    "name": "Patient 5",
+    "type": "patient",
+    "email": "patient5@example.com",
+    "password": "12345patient",
+    "mobile": 35789156278,
+    "notificationType": "email",
+    "medications": [],
+    "caretakers": []
+  }
+]
